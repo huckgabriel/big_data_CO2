@@ -23,5 +23,5 @@ You can run the notebook directly in Google Colab (recommended for quick use):
 ### Option 2: Run Locally
 1. Clone this repository:  
    '''bash
-   git clone https://github.com/huckgabriel/big_data_CO2/CO2 Emission.ipynb
+   git clone https://github.com/huckgabriel/big_data_CO2
    cd big_data_CO2
